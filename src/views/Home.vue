@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import postService from '../services/apiService';
+import postService from '../services/postService';
 import ProductDetail from '../components/ProductDetail.vue';
 
 

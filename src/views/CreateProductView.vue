@@ -16,7 +16,7 @@ import { useRouter } from 'vue-router';
 
 export default {
   components: {
-    FormProducto
+    ProductForm
   },
   setup() {
     const router = useRouter();

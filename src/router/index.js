@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from '../views/Home.vue';
-import CreateProductView from '../views/CrearProductoView.vue';
-import DetailProductView from '../views/DetalleProductoView.vue';
-import EditProductView from '../views/EditarProductoView.vue';
+import CreateProductView from '../views/CreateProductView.vue';
+import DetailProductView from '../views/DetailProductView.vue';
+import EditProductView from '../views/EditProductView.vue';
 
 const routes = [
   {

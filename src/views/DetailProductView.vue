@@ -15,7 +15,7 @@
 <script>
 import { ref, onMounted } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
-import apiService from '../services/apiService';
+import apiService from '../services/postService';
 
 export default {
   setup() {
